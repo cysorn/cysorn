@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">A passionate frontend developer from Germany</h3>
+<h3 align="center">A passionate backend developer from Germany</h3>
 
 - 🔭 I’m currently working on **Media-Viewer**
 
