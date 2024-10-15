@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Media-Viewer**
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **SpringBoot** and **Hibernate**
 
 - 📫 How to reach me **maksym.fandeyeyev@web.de**
 
