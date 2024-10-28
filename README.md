@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm Max</h1>
 <h3 align="left">Passionate software developer from Germany</h3>
 
-- 🔭 I’m currently working on **Media-Viewer**
-
 - 🌱 I’m currently learning **Spring** and **Hibernate**
 
 - 📫 How to reach me **maksym.fandeyeyev@web.de**
