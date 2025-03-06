@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋, I'm Max</h1>
-<h3 align="left">Passionate software developer from Germany</h3>
 
 - 📫 How to reach me **maksym.fandeyeyev@web.de**
 
